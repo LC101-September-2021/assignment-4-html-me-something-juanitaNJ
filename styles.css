@@ -25,9 +25,9 @@ body {
 
 }
 
-#schooltitle {
+#mainHeading {
 
-    color:rgb(123, 15, 173);
+    color: red;
 
 }
 
@@ -110,11 +110,5 @@ footer {
 .funParagraph {
 
     color: green;
-
-}
-
-#mainHeading {
-
-    color: red;
 
 }
