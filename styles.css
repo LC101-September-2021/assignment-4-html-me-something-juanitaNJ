@@ -51,6 +51,16 @@ header {
 
 }
 
+article {
+
+    font-size: 17px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 80px;
+    margin-left: 80px;
+
+}
+
 p {
 
     font-size: 17px;
@@ -73,7 +83,7 @@ img {
 
 }
 
-footer {
+span {
 
     background-color:rgb(248, 200, 218);
     color: rgb(223, 0, 93);
